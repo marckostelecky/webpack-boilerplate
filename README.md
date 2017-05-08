@@ -1,2 +1,1 @@
-# nova
-# Native JS Build
+# Webpack Native JS boilerplate with SASS
